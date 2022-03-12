@@ -3,4 +3,5 @@ py-cord[voice]
 pip
 yt-dlp
 colorlog
+boto
 cffi --only-binary all; sys_platform == 'win32'
